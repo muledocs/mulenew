@@ -1,0 +1,25 @@
+[
+  {
+    "id":1,
+    "title": "What is Mulesoft?",
+    "content": "MuleSoft design brings a new unified solution for automation, integration, and Application Programming Interfaces (APIs) that easily automates any workflow and system for your team. ",
+    "points": "Points1"
+  },
+  {
+     "id":2,
+    "title": "What is Mule ESB?",
+    "content": "flexibly connect, access, and exchange data easily",
+     "points": "<strong>Set of Service Container</strong>",
+     "points1": "<strong>Points 2</strong>",
+     "points2": "<strong>Points 3</strong>",
+     "points3": "<strong>Points 4</strong>",
+     "points4": "<strong>Points 5</strong>",
+     "image": "<img src=\" https://www.mulesoft.com/sites/default/files/cmm_files/what-mule-esb.png\">"
+  },
+  {
+     "id":3,
+    "title": "Anypoint Platform",
+    "content": "Mule Any Point Platform...",
+     "points": "Points3"
+  }
+]
