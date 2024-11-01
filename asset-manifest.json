@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mulenew/static/css/main.98effa3f.css",
+    "main.js": "/mulenew/static/js/main.928f4083.js",
+    "static/js/787.706928dd.chunk.js": "/mulenew/static/js/787.706928dd.chunk.js",
+    "index.html": "/mulenew/index.html",
+    "main.98effa3f.css.map": "/mulenew/static/css/main.98effa3f.css.map",
+    "main.928f4083.js.map": "/mulenew/static/js/main.928f4083.js.map",
+    "787.706928dd.chunk.js.map": "/mulenew/static/js/787.706928dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98effa3f.css",
+    "static/js/main.928f4083.js"
+  ]
+}
